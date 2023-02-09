@@ -16,7 +16,7 @@ Hello! My name is Jala Cox I am 24 years old and I am an upcoming software devel
 
 <https://github.com/jalawayla/https-jalawayla.github.io-reading-notes->
 
-## Notes for code school! 
+## Notes for code school
 
 ## [Class 01](/Reading-Notes/Class01)
 
@@ -26,9 +26,7 @@ Hello! My name is Jala Cox I am 24 years old and I am an upcoming software devel
 
 ## [Class 04](/Reading-Notes/Class04)
 
-
 ## [Class 05](/Reading-Notes/Class05)
-
 
 ## [Class 06](/Reading-Notes/Class06)
 
@@ -37,9 +35,3 @@ Hello! My name is Jala Cox I am 24 years old and I am an upcoming software devel
 ## [Class 08](/Reading-Notes/Class08)
 
 ## [Class 09](/Reading-Notes/Class09)
-
-## Class 02
-
-Class 02 Stuff
-
-## Class 03
