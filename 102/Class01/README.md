@@ -7,15 +7,15 @@ Mastering markdown on github is really easy once u get the hang of some of the b
                           :)
 
 <ul>
-<li>Heading</li>
-<li>Paragraphs </li>
-<li>Line Breaks</li>
-<li>Bold and Italics</li>
-<li>lockquotes </li>
-<li>Lists ordered and unordered lists</li>
-<li>Blockquotes</li>
-<li>Code Blocks</li>
-<li> Images</li>
+<li> Heading </li>
+<li> Paragraphs </li>
+<li> Line Breaks </li>
+<li> Bold and Italics </li>
+<li> lockquotes </li>
+<li> Lists ordered and unordered lists </li>
+<li> Blockquotes </li>
+<li> Code Blocks </li>
+<li> Images </li>
 <li> Lists </li>
 
 #### and more ####
@@ -56,6 +56,6 @@ Subscript <sub> </sub>  <sub>This is a subscript text</sub>
 
 Superscript <sup> </sup>  <sup>This is a superscript text</sup>
 
-## Things I want to know more about... 
-More advanced Coding formatting.
+## Things I want to know more about
 
+More advanced Coding formatting.
