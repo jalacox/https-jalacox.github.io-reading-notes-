@@ -1,4 +1,4 @@
-# Jalas Reading Notes Repo
+# Jalas Reading Notes. 
 
 ## [Course 102](/Reading-Notes/102)
 
