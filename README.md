@@ -1,13 +1,11 @@
-# Jalas Reading Notes. 
+# Jalas Reading Notes
 
-## [Course 102](/Reading-Notes/102)
+*Hello 👋🏾, Welcome to my reading notes where there will be Readings,Lecture Notes and research on all of the code modules down below.*
 
-## [Course 201](/Reading-Notes/201)
+### [Code 102- Into to Software Development](/Reading-Notes/102)
 
-## Code 102 - Intro to Software Development
+### [Code 201- Foundations of Software Development](/Reading-Notes/201)
 
-## Code 201 - Foundations of Software Development
+### [Code 301- Intermediate Software Development](/Reading-Notes/301)
 
-## Code 301 - Intermediate Software Development
-
-## Code 401 - Advanced Software Development
+### [Code 401- Advanced Software Development](/Reading-Notes/401)
