@@ -1,3 +1,6 @@
+<!DOCTYPE html
+<html>
+
 # Git Tutorial: A Comprehensive Guide #
 
  In this chapter Ill go over the following...
@@ -25,7 +28,7 @@ ______
 
 <sub> Glad u asked </sub> 🤓
 
-<p> Git contain snapshots that store date in a file system and it is make up its snapshots. Git creates a snapshot of the file and stores a reference to it. Git also rely on Local Operations because thats where most information can be found. Tracking changes,your every move 👀 is tracked by git and theu will always peep file destruction or loss of date in transit. Which brings me to the loss of data, "Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost."
+<p> Git contain snapshots that store date in a file system and it is make up its snapshots. Git creates a snapshot of the file and stores a reference to it. Git also rely on Local Operations because thats where most information can be found. Tracking changes,your every move 👀 is tracked by git and theu will always peep file destruction or loss of date in transit. Which brings me to the loss of data, "Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost." </p>
 
 
 
@@ -47,4 +50,8 @@ Flagged a file’s changed version to be committed in the next snapshot.
 Sources: 
 
 https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
+
+<p> On using git you would need to install it to your computer and from there follow the steps that are privided on 'Getting Started' section of the reading. After making sure Git has been installed, you should perform some customization steps, which should only need to be completed once on any machine. To change settings, you can repeat the steps given on reading in the link below. </p>
+
+https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2'''''''''''''''''''''''
 
