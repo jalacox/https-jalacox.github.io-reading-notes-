@@ -1,9 +1,8 @@
 # Jala's Reading Notes
 
-*Hello 👋🏾, Welcome to my reading notes where there will be Readings, Lecture Notes and research on Coding and Software Development.* 
+* Hello 👋🏾, Welcome to my reading notes where there will be Readings, Lecture Notes and research on Coding and Software Development.*
 
 <sub> All of the modules are listed below 🤓 enjoy!</sub>
-
 
 ### [Code 102- Into to Software Development](/Reading-Notes/102)
 
