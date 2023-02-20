@@ -53,5 +53,5 @@ https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
 
 <p> On using git you would need to install it to your computer and from there follow the steps that are privided on 'Getting Started' section of the reading. After making sure Git has been installed, you should perform some customization steps, which should only need to be completed once on any machine. To change settings, you can repeat the steps given on reading in the link below. </p>
 
-https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2'''''''''''''''''''''''
+https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2
 
