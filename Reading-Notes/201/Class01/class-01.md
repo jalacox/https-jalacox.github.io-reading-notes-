@@ -34,7 +34,7 @@ What is a Variable and why are they important in JavaScript?
 
 [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
-<sub>Some reading above about HMTL for further understanding.</sub>
+<sub>Some reading above about HTML for further understanding.</sub>
 
 What is an HTML attribute?
 
