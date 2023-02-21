@@ -40,8 +40,8 @@ Why should we avoid using inline styles?
 
 Review the block of code below and answer the following questions:
 
-h2 {
-
+  h2 {
+    
     color: black;
     padding: 5px;
 }
@@ -80,7 +80,7 @@ Describe a real world Problem you could solve with a Function.
 
 [Making Decisions In Your Code - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
-An if statement checks a __ and if it evaluates to ___, then the code block will execute __.
+An if statement checks a **condition** and if it evaluates to **false**, then the code block will execute.
 
 What is the use of an else if?
 
