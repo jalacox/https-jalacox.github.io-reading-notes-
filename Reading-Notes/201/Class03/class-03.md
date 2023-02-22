@@ -28,7 +28,11 @@ In these notes you will find and read up on material on more HTML, CSS and Javas
 
 Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 
-- (put story here!)
+<h3> The Box Model :</h3>
+
+ The margin property protects the house like a security system, and the padding property is the family inside the house. The End. 
+
+--- 
 
 List and describe the four parts of an HTML elements box as referred to by the box model.
 
@@ -43,6 +47,8 @@ List and describe the four parts of an HTML elements box as referred to by the b
 
 ![Alt text](https://www.phpforkids.com/images/examples/css-box-model.gif)
 
+---
+
 **Learn JS** ➤ [Click here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays), [Operators and Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators), [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals),[ Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code) 
@@ -53,7 +59,7 @@ List and describe the four parts of an HTML elements box as referred to by the b
 
 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-* No, it not not a valid JS array, 
+* This is javascript array is valid because you access the value by accessing the 
 
 3. List five shorthand operators for assignment in javascript and describe what they do.
 
@@ -69,6 +75,19 @@ List and describe the four parts of an HTML elements box as referred to by the b
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
+- The result would be 
+
+a = 10, b = ‘dog’, and c = false
+(a+c)+b = 10dog
+
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
+- Using a code machine for a car when a car is having car trouble, can read the codes to determine what needs to be fixed, it gives and error. 
+
 6. Give an example of when a Loop is useful in JavaScript.
+
+- Using an ATM and the machine doing the transactions for customers whom use the machine. 
+
+---
+Things I want to know more about.
+* Just more about JS.
