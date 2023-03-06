@@ -32,3 +32,7 @@ Briefly describe the relationship between the DOM and JavaScript.
 
 - DOM is an interface that defines how the browser reads your XML or HTML document. JavaScript is allowed to manipulate structure & style your webpage. 
 
+
+
+<h3> Things I want to learn more about!... <h3>
+Javascript.
