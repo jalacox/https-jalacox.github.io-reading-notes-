@@ -24,5 +24,7 @@ Evaluate the code below. What does the term this refer to and what is the advant
 
 What is the DOM?
 
+- The DOM is 
+
 Briefly describe the relationship between the DOM and JavaScript.
 
