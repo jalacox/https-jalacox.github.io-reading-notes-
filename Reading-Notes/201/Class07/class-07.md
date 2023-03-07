@@ -1,4 +1,4 @@
-<h1> Object-Oriented Programming, HTML Tables <h1>
+<h1> Object-Oriented Programming, HTML Tables </h1>
 
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
