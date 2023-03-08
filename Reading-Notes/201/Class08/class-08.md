@@ -23,3 +23,6 @@ allows you to create layouts by aligning items to a single axis
 2. How does this topic connect with your long term goals?
 
 Theres always support. 
+
+Things I wanna learn.
+more about css.. 
